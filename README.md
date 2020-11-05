@@ -1,9 +1,15 @@
-# howto
+# How To:
 This repositories about all my content writing.
 
+### Social:
+1. Facebook
+2. Instagram
+3. Twitter
+4. WhatsApp
 
-1. FA
-2. fA
+### Git
+1. [Git](https://www.git.com)
+
 
 [I'm an inline-style link](https://www.google.com)
 
