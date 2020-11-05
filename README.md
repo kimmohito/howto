@@ -15,7 +15,7 @@ This repositories about all my content writing.
 ### Join My Community
 1. Facebook
 2. Discord
-3. ~WhatsApp~
+3. ~WhatsApp~ *Only for Malaysians(Kindly contact me if you're interested to join)
 
 
 [I'm an inline-style link](https://www.google.com)
