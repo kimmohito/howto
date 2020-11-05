@@ -15,6 +15,8 @@ This repositories about all my content writing.
 ### Join My Community
 1. Facebook
 2. Discord
+
+<!--
 3. ~WhatsApp~ *Only for Malaysians(Kindly contact me if you're interested to join)
 
 
@@ -39,3 +41,5 @@ Some text to show that the reference links can follow later.
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
+
+-->
