@@ -11,6 +11,13 @@ This repositories about all my content writing.
 1. [Git](https://www.git.com)
 
 
+
+### Join My Community
+1. Facebook
+2. Discord
+3. ~WhatsApp~
+
+
 [I'm an inline-style link](https://www.google.com)
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
